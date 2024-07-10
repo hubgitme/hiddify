@@ -16,7 +16,7 @@
       "peer_public_key": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",
       "reserved": [193,119,193],
 
-      "mtu": 1283,
+      "mtu": 1280,
       "fake_packets": "5-10"
     },
     {
@@ -49,7 +49,7 @@
       "peer_public_key": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",
       "reserved": [193,119,193],
 
-      "mtu": 1283,
+      "mtu": 1280,
       "fake_packets": "5-10"
     },
     {
@@ -67,7 +67,7 @@
       "peer_public_key": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",
       "reserved": [242,127,75],  
 
-      "mtu": 1123
+      "mtu": 1120
     },{
       "type": "wireguard",
       "tag": "Warp-IR4",
@@ -82,7 +82,7 @@
       "peer_public_key": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",
       "reserved": [193,119,193],
 
-      "mtu": 1283,
+      "mtu": 1280,
       "fake_packets": "5-10"
     },
     {
@@ -115,7 +115,7 @@
       "peer_public_key": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",
       "reserved": [193,119,193],
 
-      "mtu": 1283,
+      "mtu": 1280,
       "fake_packets": "5-10"
     },
     {
